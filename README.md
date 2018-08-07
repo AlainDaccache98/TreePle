@@ -31,14 +31,14 @@ b. With the TreePLE system, the user can, via an Android frontend (intended for 
 
 ### Screenshots of some key features: 
 ![Login](https://github.com/AlainDaccache98/TreePle/blob/master/img/Login.png)
-![Overview](https://github.com/AlainDaccache98/TreePle/blob/master/img/Overview.png)
+![Overview](https://github.com/AlainDaccache98/TreePle/blob/master/img/List.png)
 ![Map](https://github.com/AlainDaccache98/TreePle/blob/master/img/Map.png)
-![PlantTreeWeb](https://github.com/AlainDaccache98/TreePle/blob/master/img/PlantTreeWeb.png)
+![PlantTreeWeb](https://github.com/AlainDaccache98/TreePle/blob/master/img/Plant.png)
 ![Sustainability Attributes](https://github.com/AlainDaccache98/TreePle/blob/master/img/Attributes.png)
 ![Forecast](https://github.com/AlainDaccache98/TreePle/blob/master/img/Forecast.png)
-![PlantTreeAndroid](https://github.com/AlainDaccache98/TreePle/blob/master/img/PlantTreeAndroid.png)
-![RemoveTreeAndroid](https://github.com/AlainDaccache98/TreePle/blob/master/img/RemoveTreeAndroid.png)
-![UpdateTreeAndroid](https://github.com/AlainDaccache98/TreePle/blob/master/img/UpdateTreeAndroid.png)
+![PlantTreeAndroid](https://github.com/AlainDaccache98/TreePle/blob/master/img/PlantAndroid.png)
+![RemoveTreeAndroid](https://github.com/AlainDaccache98/TreePle/blob/master/img/RemoveAndroid.png)
+![UpdateTreeAndroid](https://github.com/AlainDaccache98/TreePle/blob/master/img/UpdateAndroid.png)
 
 
 ## IV. Setup Instructions:
