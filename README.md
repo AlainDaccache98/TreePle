@@ -30,15 +30,15 @@ b. With the TreePLE system, the user can, via an Android frontend (intended for 
 - Mark trees which are diseased or to be cut down
 
 ### Screenshots of some key features: 
-![Login](https://github.mcgill.ca/ECSE321-2018-Winter/Project-16/blob/master/img/Login.png)
-![Overview](https://github.mcgill.ca/ECSE321-2018-Winter/Project-16/blob/master/src/List.png)
-![Map](https://github.mcgill.ca/ECSE321-2018-Winter/Project-16/blob/master/src/Map.png)
-![PlantTreeWeb](https://github.mcgill.ca/ECSE321-2018-Winter/Project-16/blob/master/src/Plant.png)
-![Sustainability Attributes](https://github.mcgill.ca/ECSE321-2018-Winter/Project-16/blob/master/src/Attributes.png)
-![Forecast](https://github.mcgill.ca/ECSE321-2018-Winter/Project-16/blob/master/src/Forecast.png)
-![PlantTreeAndroid](https://github.mcgill.ca/ECSE321-2018-Winter/Project-16/blob/master/src/PlantAndroid.png)
-![RemoveTreeAndroid](https://github.mcgill.ca/ECSE321-2018-Winter/Project-16/blob/master/src/RemoveAndroid.png)
-![UpdateTreeAndroid](https://github.mcgill.ca/ECSE321-2018-Winter/Project-16/blob/master/src/UpdateAndroid.png)
+![Login](https://github.com/AlainDaccache98/TreePle/blob/master/img/Login.png)
+![Overview](https://github.com/AlainDaccache98/TreePle/blob/master/img/Overview.png)
+![Map](https://github.com/AlainDaccache98/TreePle/blob/master/img/Map.png)
+![PlantTreeWeb](https://github.com/AlainDaccache98/TreePle/blob/master/img/PlantTreeWeb.png)
+![Sustainability Attributes](https://github.com/AlainDaccache98/TreePle/blob/master/img/Attributes.png)
+![Forecast](https://github.com/AlainDaccache98/TreePle/blob/master/img/Forecast.png)
+![PlantTreeAndroid](https://github.com/AlainDaccache98/TreePle/blob/master/img/PlantTreeAndroid.png)
+![RemoveTreeAndroid](https://github.com/AlainDaccache98/TreePle/blob/master/img/RemoveTreeAndroid.png)
+![UpdateTreeAndroid](https://github.com/AlainDaccache98/TreePle/blob/master/img/UpdateTreeAndroid.png)
 
 
 ## IV. Setup Instructions:
