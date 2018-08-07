@@ -30,7 +30,7 @@ b. With the TreePLE system, the user can, via an Android frontend (intended for 
 - Mark trees which are diseased or to be cut down
 
 ### Screenshots of some key features: 
-![Login](https://github.mcgill.ca/ECSE321-2018-Winter/Project-16/blob/master/src/Login.png)
+![Login](https://github.mcgill.ca/ECSE321-2018-Winter/Project-16/blob/master/img/Login.png)
 ![Overview](https://github.mcgill.ca/ECSE321-2018-Winter/Project-16/blob/master/src/List.png)
 ![Map](https://github.mcgill.ca/ECSE321-2018-Winter/Project-16/blob/master/src/Map.png)
 ![PlantTreeWeb](https://github.mcgill.ca/ECSE321-2018-Winter/Project-16/blob/master/src/Plant.png)
