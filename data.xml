@@ -1,0 +1,29 @@
+<ca.mcgill.ecse321.TreePle.model.TreePLE id="1">
+  <trees id="2"/>
+  <surveys id="3"/>
+  <user id="4">
+    <localResident id="5">
+      <name>ketan</name>
+      <email>k10@ben10.com</email>
+      <userID>1234567</userID>
+      <treePLE reference="1"/>
+      <properties id="6">
+        <property id="7">
+          <length>100.0</length>
+          <width>100.0</width>
+          <localResidents id="8">
+            <localResident reference="5"/>
+          </localResidents>
+          <location id="9">
+            <latitude>0.0</latitude>
+            <longitude>0.0</longitude>
+            <property reference="7"/>
+          </location>
+        </property>
+      </properties>
+      <surveys id="10"/>
+    </localResident>
+  </user>
+  <forecasts id="11"/>
+  <sustainabilityAttributes id="12"/>
+</ca.mcgill.ecse321.TreePle.model.TreePLE>
